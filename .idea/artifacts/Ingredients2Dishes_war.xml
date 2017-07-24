@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ingredients2Dishes:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Ingredients2Dishes-0.1.war">
+      <element id="artifact" artifact-name="Ingredients2Dishes:war exploded" />
+    </root>
+  </artifact>
+</component>
